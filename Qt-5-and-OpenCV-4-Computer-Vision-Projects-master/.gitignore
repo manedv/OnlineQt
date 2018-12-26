@@ -1,0 +1,14 @@
+*.o
+*.so
+*.so.1
+*.so.1.0
+*.so.1.0.0
+moc_*
+.qmake.stash
+
+# ch01
+Chapter-01/ImageViewer/ImageViewer
+Chapter-01/ImageViewer/Makefile
+# ch02
+Chapter-02/ImageEditor/ImageEditor
+Chapter-02/*/Makefile
